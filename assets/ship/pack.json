@@ -1,0 +1,286 @@
+{
+ "ship": {
+  "files": [
+   {
+    "type": "image",
+    "key": "shp_floor",
+    "url": "assets/ship/floor.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_0",
+    "url": "assets/ship/ring_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_1",
+    "url": "assets/ship/ring_1.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_2",
+    "url": "assets/ship/ring_2.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_3",
+    "url": "assets/ship/ring_3.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_4",
+    "url": "assets/ship/ring_4.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_5",
+    "url": "assets/ship/ring_5.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_6",
+    "url": "assets/ship/ring_6.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_7",
+    "url": "assets/ship/ring_7.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_8",
+    "url": "assets/ship/ring_8.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_9",
+    "url": "assets/ship/ring_9.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_10",
+    "url": "assets/ship/ring_10.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_11",
+    "url": "assets/ship/ring_11.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_12",
+    "url": "assets/ship/ring_12.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_13",
+    "url": "assets/ship/ring_13.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_14",
+    "url": "assets/ship/ring_14.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_15",
+    "url": "assets/ship/ring_15.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_16",
+    "url": "assets/ship/ring_16.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_17",
+    "url": "assets/ship/ring_17.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_18",
+    "url": "assets/ship/ring_18.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_19",
+    "url": "assets/ship/ring_19.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_20",
+    "url": "assets/ship/ring_20.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_21",
+    "url": "assets/ship/ring_21.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_22",
+    "url": "assets/ship/ring_22.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_23",
+    "url": "assets/ship/ring_23.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_24",
+    "url": "assets/ship/ring_24.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_25",
+    "url": "assets/ship/ring_25.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_26",
+    "url": "assets/ship/ring_26.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_27",
+    "url": "assets/ship/ring_27.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_28",
+    "url": "assets/ship/ring_28.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_29",
+    "url": "assets/ship/ring_29.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_30",
+    "url": "assets/ship/ring_30.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_31",
+    "url": "assets/ship/ring_31.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_32",
+    "url": "assets/ship/ring_32.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_33",
+    "url": "assets/ship/ring_33.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_34",
+    "url": "assets/ship/ring_34.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_35",
+    "url": "assets/ship/ring_35.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_ring_36",
+    "url": "assets/ship/ring_36.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_nav_0",
+    "url": "assets/ship/st_nav_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_scibay_0",
+    "url": "assets/ship/st_scibay_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_board_0",
+    "url": "assets/ship/st_board_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_power_0",
+    "url": "assets/ship/st_power_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_power_1",
+    "url": "assets/ship/st_power_1.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_power_2",
+    "url": "assets/ship/st_power_2.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_power_3",
+    "url": "assets/ship/st_power_3.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_power_4",
+    "url": "assets/ship/st_power_4.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_engine_0",
+    "url": "assets/ship/st_engine_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_fuelcells_0",
+    "url": "assets/ship/st_fuelcells_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_data_0",
+    "url": "assets/ship/st_data_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_antenna_0",
+    "url": "assets/ship/st_antenna_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_jettison_0",
+    "url": "assets/ship/st_jettison_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_water_0",
+    "url": "assets/ship/st_water_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_air_0",
+    "url": "assets/ship/st_air_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_o2rack_0",
+    "url": "assets/ship/st_o2rack_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_st_workbench_0",
+    "url": "assets/ship/st_workbench_0.png?v=1794697814989"
+   },
+   {
+    "type": "image",
+    "key": "shp_scale_display_0",
+    "url": "assets/ship/scale_display_0.png?v=1794697814989"
+   }
+  ]
+ }
+}

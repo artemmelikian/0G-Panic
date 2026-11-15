@@ -1,0 +1,666 @@
+{
+ "level": {
+  "files": [
+   {
+    "type": "image",
+    "key": "lvl_floor",
+    "url": "assets/level/floor.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_0_0_30_0_0",
+    "url": "assets/level/wall_0_0_30_0_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_0_15_30_15_0",
+    "url": "assets/level/wall_0_15_30_15_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_0_0_0_15_0",
+    "url": "assets/level/wall_0_0_0_15_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_30_0_30_15_0",
+    "url": "assets/level/wall_30_0_30_15_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_0",
+    "url": "assets/level/wall_10-5_0_10-5_6_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_1",
+    "url": "assets/level/wall_10-5_0_10-5_6_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_2",
+    "url": "assets/level/wall_10-5_0_10-5_6_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_3",
+    "url": "assets/level/wall_10-5_0_10-5_6_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_4",
+    "url": "assets/level/wall_10-5_0_10-5_6_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_5",
+    "url": "assets/level/wall_10-5_0_10-5_6_5.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_6",
+    "url": "assets/level/wall_10-5_0_10-5_6_6.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_7",
+    "url": "assets/level/wall_10-5_0_10-5_6_7.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_8",
+    "url": "assets/level/wall_10-5_0_10-5_6_8.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_9",
+    "url": "assets/level/wall_10-5_0_10-5_6_9.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_10",
+    "url": "assets/level/wall_10-5_0_10-5_6_10.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_11",
+    "url": "assets/level/wall_10-5_0_10-5_6_11.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_0_10-5_6_12",
+    "url": "assets/level/wall_10-5_0_10-5_6_12.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_10_10-5_15_0",
+    "url": "assets/level/wall_10-5_10_10-5_15_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_10_10-5_15_1",
+    "url": "assets/level/wall_10-5_10_10-5_15_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_10_10-5_15_2",
+    "url": "assets/level/wall_10-5_10_10-5_15_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_10_10-5_15_3",
+    "url": "assets/level/wall_10-5_10_10-5_15_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_10_10-5_15_4",
+    "url": "assets/level/wall_10-5_10_10-5_15_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_10_10-5_15_5",
+    "url": "assets/level/wall_10-5_10_10-5_15_5.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_10_10-5_15_6",
+    "url": "assets/level/wall_10-5_10_10-5_15_6.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_10_10-5_15_7",
+    "url": "assets/level/wall_10-5_10_10-5_15_7.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_10_10-5_15_8",
+    "url": "assets/level/wall_10-5_10_10-5_15_8.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_10_10-5_15_9",
+    "url": "assets/level/wall_10-5_10_10-5_15_9.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_10-5_10_10-5_15_10",
+    "url": "assets/level/wall_10-5_10_10-5_15_10.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_0",
+    "url": "assets/level/wall_20_0_20_6_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_1",
+    "url": "assets/level/wall_20_0_20_6_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_2",
+    "url": "assets/level/wall_20_0_20_6_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_3",
+    "url": "assets/level/wall_20_0_20_6_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_4",
+    "url": "assets/level/wall_20_0_20_6_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_5",
+    "url": "assets/level/wall_20_0_20_6_5.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_6",
+    "url": "assets/level/wall_20_0_20_6_6.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_7",
+    "url": "assets/level/wall_20_0_20_6_7.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_8",
+    "url": "assets/level/wall_20_0_20_6_8.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_9",
+    "url": "assets/level/wall_20_0_20_6_9.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_10",
+    "url": "assets/level/wall_20_0_20_6_10.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_11",
+    "url": "assets/level/wall_20_0_20_6_11.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_0_20_6_12",
+    "url": "assets/level/wall_20_0_20_6_12.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_10_20_15_0",
+    "url": "assets/level/wall_20_10_20_15_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_10_20_15_1",
+    "url": "assets/level/wall_20_10_20_15_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_10_20_15_2",
+    "url": "assets/level/wall_20_10_20_15_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_10_20_15_3",
+    "url": "assets/level/wall_20_10_20_15_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_10_20_15_4",
+    "url": "assets/level/wall_20_10_20_15_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_10_20_15_5",
+    "url": "assets/level/wall_20_10_20_15_5.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_10_20_15_6",
+    "url": "assets/level/wall_20_10_20_15_6.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_10_20_15_7",
+    "url": "assets/level/wall_20_10_20_15_7.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_10_20_15_8",
+    "url": "assets/level/wall_20_10_20_15_8.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_10_20_15_9",
+    "url": "assets/level/wall_20_10_20_15_9.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_wall_20_10_20_15_10",
+    "url": "assets/level/wall_20_10_20_15_10.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_jamb_10-5_6_0",
+    "url": "assets/level/jamb_10-5_6_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_jamb_10-5_10_0",
+    "url": "assets/level/jamb_10-5_10_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_jamb_20_6_0",
+    "url": "assets/level/jamb_20_6_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_jamb_20_10_0",
+    "url": "assets/level/jamb_20_10_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_shelf_0",
+    "url": "assets/level/st_shelf_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_shelf_1",
+    "url": "assets/level/st_shelf_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_shelf_2",
+    "url": "assets/level/st_shelf_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_shelf_3",
+    "url": "assets/level/st_shelf_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_shelf_4",
+    "url": "assets/level/st_shelf_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_shelf_5",
+    "url": "assets/level/st_shelf_5.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_shelf_6",
+    "url": "assets/level/st_shelf_6.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_shelf_7",
+    "url": "assets/level/st_shelf_7.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_shelf_8",
+    "url": "assets/level/st_shelf_8.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_shelf_9",
+    "url": "assets/level/st_shelf_9.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_shelf_10",
+    "url": "assets/level/st_shelf_10.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_shelf_11",
+    "url": "assets/level/st_shelf_11.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_analyzer_0",
+    "url": "assets/level/st_analyzer_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_analyzer_1",
+    "url": "assets/level/st_analyzer_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_analyzer_2",
+    "url": "assets/level/st_analyzer_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_analyzer_3",
+    "url": "assets/level/st_analyzer_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_analyzer_4",
+    "url": "assets/level/st_analyzer_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_labconsole_0",
+    "url": "assets/level/st_labconsole_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_workbench_0",
+    "url": "assets/level/st_workbench_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_workbench_1",
+    "url": "assets/level/st_workbench_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_workbench_2",
+    "url": "assets/level/st_workbench_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_workbench_3",
+    "url": "assets/level/st_workbench_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_workbench_4",
+    "url": "assets/level/st_workbench_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_workbench_5",
+    "url": "assets/level/st_workbench_5.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_workbench_6",
+    "url": "assets/level/st_workbench_6.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_o2_0",
+    "url": "assets/level/st_o2_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_o2_1",
+    "url": "assets/level/st_o2_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_o2_2",
+    "url": "assets/level/st_o2_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_o2_3",
+    "url": "assets/level/st_o2_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_o2_4",
+    "url": "assets/level/st_o2_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_o2_5",
+    "url": "assets/level/st_o2_5.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_supply_0",
+    "url": "assets/level/st_supply_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_supply_1",
+    "url": "assets/level/st_supply_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_supply_2",
+    "url": "assets/level/st_supply_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_supply_3",
+    "url": "assets/level/st_supply_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_supply_4",
+    "url": "assets/level/st_supply_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_supply_5",
+    "url": "assets/level/st_supply_5.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_supply_6",
+    "url": "assets/level/st_supply_6.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_order_0",
+    "url": "assets/level/st_order_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_scale_display_0",
+    "url": "assets/level/scale_display_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_launch_0",
+    "url": "assets/level/st_launch_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_launch_1",
+    "url": "assets/level/st_launch_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_launch_2",
+    "url": "assets/level/st_launch_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_launch_3",
+    "url": "assets/level/st_launch_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_launch_4",
+    "url": "assets/level/st_launch_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_planning_0",
+    "url": "assets/level/st_planning_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_planning_1",
+    "url": "assets/level/st_planning_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_planning_2",
+    "url": "assets/level/st_planning_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_planning_3",
+    "url": "assets/level/st_planning_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_planning_4",
+    "url": "assets/level/st_planning_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_hangar_0",
+    "url": "assets/level/st_hangar_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_hatch_0",
+    "url": "assets/level/st_hatch_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fuelport_0",
+    "url": "assets/level/st_fuelport_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fuelcells_0",
+    "url": "assets/level/st_fuelcells_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_0",
+    "url": "assets/level/st_fueltanks_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_1",
+    "url": "assets/level/st_fueltanks_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_2",
+    "url": "assets/level/st_fueltanks_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_3",
+    "url": "assets/level/st_fueltanks_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_4",
+    "url": "assets/level/st_fueltanks_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_5",
+    "url": "assets/level/st_fueltanks_5.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_6",
+    "url": "assets/level/st_fueltanks_6.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_7",
+    "url": "assets/level/st_fueltanks_7.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_8",
+    "url": "assets/level/st_fueltanks_8.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_9",
+    "url": "assets/level/st_fueltanks_9.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_10",
+    "url": "assets/level/st_fueltanks_10.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_11",
+    "url": "assets/level/st_fueltanks_11.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_12",
+    "url": "assets/level/st_fueltanks_12.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_13",
+    "url": "assets/level/st_fueltanks_13.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_fueltanks_14",
+    "url": "assets/level/st_fueltanks_14.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_suits_0",
+    "url": "assets/level/st_suits_0.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_suits_1",
+    "url": "assets/level/st_suits_1.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_suits_2",
+    "url": "assets/level/st_suits_2.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_suits_3",
+    "url": "assets/level/st_suits_3.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_suits_4",
+    "url": "assets/level/st_suits_4.png?v=1794676889412"
+   },
+   {
+    "type": "image",
+    "key": "lvl_st_suits_5",
+    "url": "assets/level/st_suits_5.png?v=1794676889412"
+   }
+  ]
+ }
+}
