@@ -524,7 +524,7 @@ export class HangarScene extends Phaser.Scene {
     g.fillStyle(0x0f1430, 0.98).fillRoundedRect(x0, y0, W, H, 16);
     g.lineStyle(2, 0xffcf5a, 1).strokeRoundedRect(x0, y0, W, H, 16);
     const t = (x, y, str, st = {}, ox = 0.5) => { const o = this.add.text(x, y, str, { color: '#e6e9ff', fontSize: '14px', ...st }).setOrigin(ox, 0); c.add(o); return o; };
-    t(640, y0 + 20, 'LAUNCH RUSH', { fontSize: '34px', fontStyle: 'bold', color: '#ffcf5a' });
+    t(640, y0 + 20, '0G PANIC', { fontSize: '34px', fontStyle: 'bold', color: '#ffcf5a' });
     t(640, y0 + 66, 'Prepare, fly and land a science mission — 1 to 4 players.', { color: '#9aa3cf' });
     t(640, y0 + 92, 'Press YOUR action key to join · ◄ ► pick a role · action again = READY · ▼ leave', { color: '#e6e9ff', fontSize: '13px' });
     const cw = 190, gap = 12, cx0 = 640 - (cw * 4 + gap * 3) / 2;
@@ -2159,7 +2159,7 @@ export class HangarScene extends Phaser.Scene {
 
   tutorialSteps() {
     return [
-      { title: 'Welcome to Launch Rush', role: null, at: [],
+      { title: 'Welcome to 0G Panic', role: null, at: [],
         text: 'Your crew of four must get the rocket ready for Mars.\nEach hero has a role color and can only use stations with the same color underline (gray = anyone).\nAction key: pick up / put down items and open stations. Hands hold one item at a time.' },
       { title: '1 · Choose the mission', role: 'ANY', at: ['order'],
         text: 'Anyone opens the Order Screen and picks mission type, target, duration and difficulty.\nThis creates the science tickets — the list of experiments the rocket must carry.' },
