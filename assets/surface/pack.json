@@ -1,0 +1,251 @@
+{
+ "surface": {
+  "files": [
+   {
+    "type": "image",
+    "key": "srf_floor",
+    "url": "assets/surface/floor.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_0",
+    "url": "assets/surface/ring_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_1",
+    "url": "assets/surface/ring_1.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_2",
+    "url": "assets/surface/ring_2.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_3",
+    "url": "assets/surface/ring_3.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_4",
+    "url": "assets/surface/ring_4.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_5",
+    "url": "assets/surface/ring_5.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_6",
+    "url": "assets/surface/ring_6.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_7",
+    "url": "assets/surface/ring_7.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_8",
+    "url": "assets/surface/ring_8.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_9",
+    "url": "assets/surface/ring_9.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_10",
+    "url": "assets/surface/ring_10.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_11",
+    "url": "assets/surface/ring_11.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_12",
+    "url": "assets/surface/ring_12.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_13",
+    "url": "assets/surface/ring_13.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_14",
+    "url": "assets/surface/ring_14.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_15",
+    "url": "assets/surface/ring_15.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_16",
+    "url": "assets/surface/ring_16.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_17",
+    "url": "assets/surface/ring_17.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_18",
+    "url": "assets/surface/ring_18.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_19",
+    "url": "assets/surface/ring_19.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_20",
+    "url": "assets/surface/ring_20.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_21",
+    "url": "assets/surface/ring_21.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_22",
+    "url": "assets/surface/ring_22.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_23",
+    "url": "assets/surface/ring_23.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_24",
+    "url": "assets/surface/ring_24.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_25",
+    "url": "assets/surface/ring_25.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_26",
+    "url": "assets/surface/ring_26.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_ring_27",
+    "url": "assets/surface/ring_27.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_rock_700_150_0",
+    "url": "assets/surface/rock_700_150_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_rock_905_118_0",
+    "url": "assets/surface/rock_905_118_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_rock_1150_175_0",
+    "url": "assets/surface/rock_1150_175_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_rock_1205_420_0",
+    "url": "assets/surface/rock_1205_420_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_rock_1010_612_0",
+    "url": "assets/surface/rock_1010_612_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_rock_760_640_0",
+    "url": "assets/surface/rock_760_640_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_rock_870_330_0",
+    "url": "assets/surface/rock_870_330_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_rock_1100_300_0",
+    "url": "assets/surface/rock_1100_300_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_rock_640_560_0",
+    "url": "assets/surface/rock_640_560_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_rock_1185_600_0",
+    "url": "assets/surface/rock_1185_600_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_leg_45_0",
+    "url": "assets/surface/leg_45_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_leg_135_0",
+    "url": "assets/surface/leg_135_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_leg_225_0",
+    "url": "assets/surface/leg_225_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_leg_315_0",
+    "url": "assets/surface/leg_315_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_st_nav_0",
+    "url": "assets/surface/st_nav_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_st_lab_0",
+    "url": "assets/surface/st_lab_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_st_data_0",
+    "url": "assets/surface/st_data_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_st_antenna_0",
+    "url": "assets/surface/st_antenna_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_st_suitrack_0",
+    "url": "assets/surface/st_suitrack_0.png?v=1794697850208"
+   },
+   {
+    "type": "image",
+    "key": "srf_scale_display_0",
+    "url": "assets/surface/scale_display_0.png?v=1794697850208"
+   }
+  ]
+ }
+}

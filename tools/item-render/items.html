@@ -1,0 +1,42 @@
+<!doctype html><html><body style="margin:0;background:#222">
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+<script type="module">
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+const F = 128, FH = 144, DIRS = 32, PPU = 40, FOOT = 2.0, COLS = 8;
+const TILT = 30 * Math.PI / 180, PITCH = Math.PI / 2 - TILT;
+const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true, preserveDrawingBuffer: true });
+renderer.setSize(F, FH); renderer.setPixelRatio(1);
+renderer.outputColorSpace = THREE.SRGBColorSpace; renderer.setClearColor(0, 0);
+document.body.appendChild(renderer.domElement);
+const scene = new THREE.Scene();
+scene.add(new THREE.HemisphereLight(0xffffff, 0x445066, 2.0));
+const sun = new THREE.DirectionalLight(0xffffff, 2.2); sun.position.set(-3, 8, 5); scene.add(sun);
+const h = F / 2 / PPU;
+const hh = FH / 2 / PPU; const cam = new THREE.OrthographicCamera(-h, h, hh, -hh, 0.1, 100);
+const target = new THREE.Vector3(0, 0.85, 0);
+cam.position.set(0, target.y + Math.sin(PITCH) * 20, Math.cos(PITCH) * 20);
+cam.lookAt(target); cam.updateMatrixWorld();
+const f = new THREE.Vector3(0, 0, 0).project(cam);
+window.ANCHOR = { x: (f.x + 1) / 2 * F, y: (1 - f.y) / 2 * FH };
+window.renderItem = async (url) => {
+  const gltf = await new GLTFLoader().loadAsync(url);
+  const model = gltf.scene;
+  const box = new THREE.Box3().setFromObject(model), size = box.getSize(new THREE.Vector3()), c = box.getCenter(new THREE.Vector3());
+  const s = FOOT / Math.max(size.x, size.z, size.y);
+  model.scale.setScalar(s);
+  model.position.set(-c.x * s, -box.min.y * s, -c.z * s);
+  const root = new THREE.Group(); root.add(model); scene.add(root);
+  const sheet = document.createElement('canvas'); sheet.width = F * COLS; sheet.height = FH * DIRS / COLS;
+  const ctx = sheet.getContext('2d');
+  for (let d = 0; d < DIRS; d++) {
+    const a = d * 2 * Math.PI / DIRS;
+    root.rotation.y = Math.PI / 2 - a;
+    renderer.render(scene, cam);
+    ctx.drawImage(renderer.domElement, (d % COLS) * F, Math.floor(d / COLS) * FH);
+  }
+  scene.remove(root);
+  return { url: sheet.toDataURL('image/png'), size: [size.x * s, size.y * s, size.z * s] };
+};
+window.READY = true;
+</script></body></html>
